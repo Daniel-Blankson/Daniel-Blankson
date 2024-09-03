@@ -11,7 +11,7 @@ I'm a passionate developer with a strong interest in Web3, game development, clo
 
 ## 🌟 Featured Projects
 
-### [Web3 Project](https://github.com/Daniel-Blankson/Web3-Project)
+### [Web3 Projects](https://github.com/Daniel-Blankson/Web3)
 This repo demonstrates my ongoing pursuit in blockchain technology, particularly in developing decentralized applications (dApps) on the Ethereum blockchain. It includes smart contracts written in Solidity.
 
 ### [Game Development](https://github.com/Daniel-Blankson/Game-Development)
@@ -20,7 +20,7 @@ A collection of guided game development projects from the "Complete Python Bootc
 ### [FinanceApp](https://github.com/Daniel-Blankson/FinanceApp)
 An ongoing personal project designed to manage personal finances. Being built using a full-stack approach with a TypeScript backend and a responsive front-end, this project aims to demonstrate my skills in web development and application architecture.
 
-### [Todo-React-App](https://github.com/Daniel-Blankson/Todo-React-App)
+### [Todo React App](https://github.com/Daniel-Blankson/Todo-React-App)
 A simple yet powerful task management app built with React. This project highlights modern JavaScript frameworks and managing state in smaller applications.
 
 ## 📈 What I'm Working On
